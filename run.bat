@@ -1,0 +1,1 @@
+java -jar "FUT Profit Calculator FIFA 18.jar"
